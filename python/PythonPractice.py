@@ -301,7 +301,8 @@
 #     x += 3
 
 
-deposit = int(input("Initial deposit : "))
+# deposit = int(input("Initial deposit : "))
+deposit = 100000
 gov_deposit = 700000
 years = 0
 while deposit <= gov_deposit:
